@@ -1,0 +1,23 @@
+## you must follow the template below:
+5 #total element types in cfg files
+Al
+Co
+Cr
+Fe
+Ni
+2.7 #rlist for global pairs
+2.7 #rcut of Al-Al pair
+2.7 #rcut of Al-Co pair
+2.7 #rcut of Al-Cr pair
+2.7 #rcut of Al-Fe pair
+2.7 #rcut of Al-Ni pair
+2.7 #rcut of Co-Co pair
+2.7 #rcut of Co-Cr pair
+2.7 #rcut of Co-Fe pair
+2.7 #rcut of Co-Ni pair
+2.7 #rcut of Cr-Cr pair
+2.7 #rcut of Cr-Fe pair
+2.7 #rcut of Cr-Ni pair
+2.7 #rcut of Fe-Fe pair
+2.7 #rcut of Fe-Ni pair
+2.7 #rcut of Ni-Ni pair
